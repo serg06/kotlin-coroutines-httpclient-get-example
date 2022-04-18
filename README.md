@@ -2,7 +2,7 @@
 
 A simple Kotlin example of fetching a file using coroutines.
 
-Why was it impossible to find a working example of this?
+Why was it so difficult to find any documentation/examples/questions about such a common workflow?
 
 Anyways,
 
